@@ -38,14 +38,13 @@ const logger = createLogger({
     ]
 });
 
-// Configuración de la aplicación ------------------------------------------------
 const PORT = process.env.PORT || 8000;
 const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://root:password@localhost:27017/';
 const DATABASE_NAME = 'players_db';
 const COLLECTION_NAME = 'players';
 
 const wss = new WebSocket.Server({ port: PORT });
-const playerTimers = new Map(); // Almacena los timers por jugador
+const playerTimers = new Map(); 
 
 logger.info(`Servidor WebSocket iniciado en el puerto ${PORT}`);
 
@@ -70,17 +69,7 @@ wss.on('connection', (ws) => {
                 await savePlayerToMongoDB(playerData);
                 resetPlayerTimer(data.player.id, ws);
 
-                // === Difusión de las posiciones a otros clientes si es necesario ===
-                /*
-                wss.clients.forEach(client => {
-                    if (client.readyState === WebSocket.OPEN) {
-                        client.send(JSON.stringify({
-                            type: 'update',
-                            player: playerData
-                        }));
-                    }
-                });
-                */
+             
             } else {
                 logger.warn(`Mensaje recibido pero no válido: ${JSON.stringify(data)}`);
             }
@@ -98,7 +87,6 @@ wss.on('connection', (ws) => {
     });
 });
 
-// --------------------------- Funciones auxiliares -----------------------------
 async function savePlayerToMongoDB(player) {
     const client = new MongoClient(MONGODB_URI);
 
@@ -130,7 +118,6 @@ function resetPlayerTimer(playerId, ws) {
     playerTimers.set(playerId, timer);
 }
 
-// --------------------------- Graceful shutdown -----------------------------
 process.on('SIGINT', () => {
     logger.info('Apagando servidor...');
     wss.close(() => {

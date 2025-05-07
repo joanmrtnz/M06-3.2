@@ -1,0 +1,21 @@
+{
+  "name": "pr32_websocket_link",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "ws_server": "node src/websocket_server.js",
+    "ws_client": "node src/websocket_client.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "mongodb": "^6.15.0",
+    "winston": "^3.17.0",
+    "ws": "^8.18.1"
+  }
+}

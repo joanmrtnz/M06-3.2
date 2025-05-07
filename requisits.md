@@ -1,8 +1,8 @@
 # Mini‑Servidor WebSocket de Registre d’Esdeveniments de Joc  
 **Fitxa de Requisits**
 
-Autor: *[El Teu Nom o Equip]*  
-Data: *[2025‑05‑07]*  
+Autor: *Joan Martinez Marin*  
+Data: *2025‑05‑07*  
 
 ---
 

@@ -152,3 +152,274 @@
     at async savePlayerToMongoDB (C:\Users\joanc\Documents\GitHub\M06-3.2\pr32_websocket_link\src\websocket_server.js:106:9)
     at async WebSocket.<anonymous> (C:\Users\joanc\Documents\GitHub\M06-3.2\pr32_websocket_link\src\websocket_server.js:70:17)
 2025-05-07 18:35:46 [INFO] Jugador player_7e239751-2514-4945-a9b5-5c5a3564c723 ha perdido por inactividad.
+2025-05-08 15:53:54 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-08 15:54:08 [INFO] Nuevo cliente conectado
+2025-05-08 15:54:10 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=0, y=-1
+2025-05-08 15:54:10 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:10 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=0, y=-2
+2025-05-08 15:54:11 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:11 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=0, y=-3
+2025-05-08 15:54:11 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:11 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=0, y=-4
+2025-05-08 15:54:11 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:11 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=0, y=-5
+2025-05-08 15:54:11 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:11 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=0, y=-4
+2025-05-08 15:54:11 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:11 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=0, y=-3
+2025-05-08 15:54:11 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:11 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=1, y=-3
+2025-05-08 15:54:12 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:12 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=2, y=-3
+2025-05-08 15:54:12 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:12 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=3, y=-3
+2025-05-08 15:54:12 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:12 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=4, y=-3
+2025-05-08 15:54:12 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:12 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=5, y=-3
+2025-05-08 15:54:12 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:12 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=5, y=-2
+2025-05-08 15:54:12 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:13 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=5, y=-1
+2025-05-08 15:54:13 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:13 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=4, y=-1
+2025-05-08 15:54:13 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:13 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=3, y=-1
+2025-05-08 15:54:13 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:13 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=3, y=-2
+2025-05-08 15:54:13 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:13 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=3, y=-3
+2025-05-08 15:54:13 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:13 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=4, y=-3
+2025-05-08 15:54:13 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:14 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=3, y=-3
+2025-05-08 15:54:14 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:14 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=3, y=-4
+2025-05-08 15:54:14 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:14 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=4, y=-4
+2025-05-08 15:54:14 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:14 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=3, y=-4
+2025-05-08 15:54:14 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:15 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=3, y=-5
+2025-05-08 15:54:15 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:15 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=4, y=-5
+2025-05-08 15:54:15 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:15 [INFO] Movimiento detectado: ID=player_7652c664-be51-4622-ac07-b5cb74267bc6, x=4, y=-4
+2025-05-08 15:54:15 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 en game 1 guardado en la base de datos.
+2025-05-08 15:54:25 [INFO] Jugador player_7652c664-be51-4622-ac07-b5cb74267bc6 ha perdido por inactividad.
+2025-05-08 17:54:43 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-08 17:54:49 [INFO] Nuevo cliente conectado
+2025-05-08 17:54:53 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_abb3dfa2-26eb-43c9-9699-24925183ea2d","game":1,"x":0,"y":0}}
+2025-05-08 17:54:56 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_abb3dfa2-26eb-43c9-9699-24925183ea2d","game":1,"x":0,"y":0}}
+2025-05-08 17:54:56 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_abb3dfa2-26eb-43c9-9699-24925183ea2d","game":1,"x":0,"y":0}}
+2025-05-08 17:54:56 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_abb3dfa2-26eb-43c9-9699-24925183ea2d","game":1,"x":0,"y":0}}
+2025-05-08 17:54:58 [INFO] Cliente desconectado
+2025-05-08 18:03:14 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-08 18:03:26 [INFO] Nuevo cliente conectado
+2025-05-08 18:03:33 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":0,"y":-1}}
+2025-05-08 18:03:33 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":0,"y":-2}}
+2025-05-08 18:03:33 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":0,"y":-3}}
+2025-05-08 18:03:33 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":0,"y":-4}}
+2025-05-08 18:03:33 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":0,"y":-3}}
+2025-05-08 18:03:34 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":0,"y":-2}}
+2025-05-08 18:03:34 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":1,"y":-2}}
+2025-05-08 18:03:34 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":2,"y":-2}}
+2025-05-08 18:03:34 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":3,"y":-2}}
+2025-05-08 18:03:35 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":3,"y":-1}}
+2025-05-08 18:03:35 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":2,"y":-1}}
+2025-05-08 18:03:35 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":1,"y":-1}}
+2025-05-08 18:03:35 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":0,"y":-1}}
+2025-05-08 18:03:35 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":0,"y":-2}}
+2025-05-08 18:03:35 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":0,"y":-1}}
+2025-05-08 18:03:36 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":0,"y":-2}}
+2025-05-08 18:03:36 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":1,"y":-2}}
+2025-05-08 18:03:36 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":2,"y":-2}}
+2025-05-08 18:03:36 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":3,"y":-2}}
+2025-05-08 18:03:36 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":4,"y":-2}}
+2025-05-08 18:03:36 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":5,"y":-2}}
+2025-05-08 18:04:54 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_62ea3118-b437-4a26-bc7b-a0edc7e84149","game":1,"x":5,"y":-2}}
+2025-05-08 18:04:56 [INFO] Cliente desconectado
+2025-05-08 18:05:07 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-08 18:05:10 [INFO] Nuevo cliente conectado
+2025-05-08 18:05:11 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-1}}
+2025-05-08 18:05:12 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-2}}
+2025-05-08 18:05:12 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-3}}
+2025-05-08 18:05:12 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-2}}
+2025-05-08 18:05:12 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-1}}
+2025-05-08 18:05:12 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":1,"y":-1}}
+2025-05-08 18:05:12 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-1}}
+2025-05-08 18:05:13 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-2}}
+2025-05-08 18:05:13 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-3}}
+2025-05-08 18:05:13 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-4}}
+2025-05-08 18:05:13 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":1,"y":-4}}
+2025-05-08 18:05:13 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-4}}
+2025-05-08 18:05:14 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-3}}
+2025-05-08 18:05:14 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-2}}
+2025-05-08 18:05:14 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-1}}
+2025-05-08 18:05:14 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":0}}
+2025-05-08 18:05:14 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":1}}
+2025-05-08 18:06:03 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":0}}
+2025-05-08 18:06:03 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-1}}
+2025-05-08 18:06:03 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-2}}
+2025-05-08 18:06:04 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":1,"y":-2}}
+2025-05-08 18:06:04 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-2}}
+2025-05-08 18:06:04 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-1}}
+2025-05-08 18:06:04 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":0}}
+2025-05-08 18:06:04 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":1,"y":0}}
+2025-05-08 18:06:04 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":0}}
+2025-05-08 18:06:28 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-1}}
+2025-05-08 18:06:28 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-2}}
+2025-05-08 18:06:29 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-3}}
+2025-05-08 18:06:29 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-4}}
+2025-05-08 18:06:29 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":1,"y":-4}}
+2025-05-08 18:06:29 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-4}}
+2025-05-08 18:06:29 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-3}}
+2025-05-08 18:06:30 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":1,"y":-3}}
+2025-05-08 18:06:30 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-3}}
+2025-05-08 18:06:30 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-4}}
+2025-05-08 18:06:30 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-5}}
+2025-05-08 18:06:30 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-4}}
+2025-05-08 18:06:31 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":0,"y":-3}}
+2025-05-08 18:06:31 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":1,"y":-3}}
+2025-05-08 18:06:31 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-3}}
+2025-05-08 18:06:31 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":3,"y":-3}}
+2025-05-08 18:06:31 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":3,"y":-2}}
+2025-05-08 18:06:31 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":3,"y":-1}}
+2025-05-08 18:06:32 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-1}}
+2025-05-08 18:06:32 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-2}}
+2025-05-08 18:06:32 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-3}}
+2025-05-08 18:06:32 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-2}}
+2025-05-08 18:06:32 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":2,"y":-1}}
+2025-05-08 18:06:32 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":3,"y":-1}}
+2025-05-08 18:06:33 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":4,"y":-1}}
+2025-05-08 18:06:33 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":5,"y":-1}}
+2025-05-08 18:06:33 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_8fcb0018-aa1a-409f-89df-605007c63afa","game":1,"x":6,"y":-1}}
+2025-05-09 14:46:37 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-09 14:46:40 [INFO] Nuevo cliente conectado
+2025-05-09 14:46:46 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":-1}}
+2025-05-09 14:46:46 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":-2}}
+2025-05-09 14:46:46 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":-3}}
+2025-05-09 14:46:46 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":-2}}
+2025-05-09 14:46:47 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":1,"y":-2}}
+2025-05-09 14:46:47 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":1,"y":-1}}
+2025-05-09 14:46:47 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":-1}}
+2025-05-09 14:46:47 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":-1,"y":-1}}
+2025-05-09 14:46:48 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":-1,"y":-2}}
+2025-05-09 14:46:48 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":-2}}
+2025-05-09 14:46:48 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":-1}}
+2025-05-09 14:46:49 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":-2}}
+2025-05-09 14:46:49 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":-1,"y":-2}}
+2025-05-09 14:46:49 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":-2}}
+2025-05-09 14:46:50 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":-1}}
+2025-05-09 14:46:50 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":0}}
+2025-05-09 14:46:50 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":1}}
+2025-05-09 14:46:50 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":0}}
+2025-05-09 14:46:50 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":0,"y":-1}}
+2025-05-09 14:46:51 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":-1,"y":-1}}
+2025-05-09 14:46:51 [WARN] Mensaje recibido pero no válido: {"type":"move","player":{"id":"player_eddd3f49-9bae-4533-b031-049a4cb34257","game":1,"x":-2,"y":-1}}
+2025-05-09 14:48:51 [INFO] Apagando servidor...
+2025-05-09 14:48:51 [INFO] Apagando servidor...
+2025-05-09 14:48:52 [INFO] Apagando servidor...
+2025-05-09 14:48:52 [INFO] Apagando servidor...
+2025-05-09 14:49:21 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-09 14:49:30 [INFO] Nuevo cliente conectado
+2025-05-09 14:49:32 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:32 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:32 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:32 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:32 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:33 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:33 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:37 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:38 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:38 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:38 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:38 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:38 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:38 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:38 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:39 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:39 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:39 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:39 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:39 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:39 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:39 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:40 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:40 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:40 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:40 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:41 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:49:51 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae ha estado demasiado inactivo. Distancia=6.32
+2025-05-09 14:49:51 [INFO] Jugador player_8420d062-d212-4de9-82f2-ecf5fe71c8ae en game 1 guardado en la base de datos.
+2025-05-09 14:57:16 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-09 14:58:03 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-09 14:58:20 [INFO] Nuevo cliente conectado
+2025-05-09 14:58:42 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-09 14:58:56 [INFO] Nuevo cliente conectado
+2025-05-09 14:59:45 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-09 14:59:52 [INFO] Nuevo cliente conectado
+2025-05-09 15:00:04 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:04 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:04 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:05 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:05 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:05 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:05 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:05 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:05 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:06 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:06 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:06 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:06 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:07 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:07 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:07 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:07 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:07 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:00:17 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 ha estado demasiado inactivo. Distancia=2.24
+2025-05-09 15:00:17 [INFO] Jugador player_0a643ab2-5e76-4ca5-aa5b-8c3619755ae4 en game 1 guardado en la base de datos.
+2025-05-09 15:02:15 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-09 15:02:19 [INFO] Nuevo cliente conectado
+2025-05-09 15:03:58 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:03:58 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:03:59 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:03:59 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:03:59 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:03:59 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:03:59 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:03:59 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:00 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:00 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:00 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:00 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:00 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:00 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:01 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:01 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:04 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:09 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:09 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:10 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:10 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:10 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:12 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:12 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:22 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb ha estado demasiado inactivo. Distancia=5.39
+2025-05-09 15:04:22 [INFO] Jugador player_b2192a42-bdf0-44b6-9f9c-59b5d3ac8cfb en game 1 guardado en la base de datos.
+2025-05-09 15:04:44 [INFO] Servidor WebSocket iniciado en el puerto 8000
+2025-05-09 15:04:46 [INFO] Nuevo cliente conectado
+2025-05-09 15:04:48 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:04:49 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:04:49 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:04:49 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:04:49 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:04:49 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:04:50 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:04:50 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:04:50 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:04:50 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:04:51 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:04:51 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.
+2025-05-09 15:05:01 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 ha estado demasiado inactivo. Distancia=2.24
+2025-05-09 15:05:01 [INFO] Jugador player_5d21e2dd-989e-4e45-b04f-6e980ca19c52 en game 1 guardado en la base de datos.

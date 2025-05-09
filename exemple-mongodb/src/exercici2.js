@@ -30,19 +30,21 @@ async function main() {
     const database = client.db('questions_db');
     const collection = database.collection('questions');
 
-    // ViewCount major a la mitjana
+    //1 Calcular mitjana i recuperar documents
     const avgViewCount = await collection.aggregate([
       { $group: { _id: null, avgViewCount: { $avg: '$question.ViewCount' } } }
     ]).toArray();
 
     const average = avgViewCount[0]?.avgViewCount || 0;
+    console.log(`Mitjana de ViewCount: ${average}`);
     const query1Results = await collection.find({ 'question.ViewCount': { $gt: average } }).toArray();
     console.log(`Consulta 1: ${query1Results.length} resultats trobats`);
 
     const titlesQuery1 = query1Results.map(doc => doc.question.Title);
 
-    // Generar informe1.pdf
+    // 4 Generar informe1.pdf
     const outputDir = path.join(__dirname, '../../data/out');
+    // 5 Crear carpeta si no existeix
     if (!fs.existsSync(outputDir)) {
       fs.mkdirSync(outputDir, { recursive: true });
     }
@@ -50,10 +52,11 @@ async function main() {
     await generatePDF(filePath1, titlesQuery1);
     console.log('informe1.pdf generat correctament');
 
-    // Coincidir con palabras clave
+    // 2 títols amb paraules clau
     const keywords = ["pug", "wig", "yak", "nap", "jig", "mug", "zap", "gag", "oaf", "elf"];
     const regex = new RegExp(keywords.join('|'), 'i');
     const query2Results = await collection.find({ 'question.Title': { $regex: regex } }).toArray();
+    // 3 Mostrar resultats
     console.log(`Consulta 2: ${query2Results.length} resultats trobats`);
 
     const titlesQuery2 = query2Results.map(doc => doc.question.Title);
@@ -66,6 +69,7 @@ async function main() {
   } catch (error) {
     console.error('Error executant el programa:', error);
   } finally {
+    // 6 Tancar connexió a MongoDB
     await client.close();
     console.log('Connexió a MongoDB tancada');
   }

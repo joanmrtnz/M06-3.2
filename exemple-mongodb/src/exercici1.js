@@ -5,7 +5,7 @@ const xml2js = require('xml2js');
 const winston = require('winston');
 require('dotenv').config();
 
-// Ruta al fitxer XML
+//1 Ruta al fitxer XML
 const xmlFilePath = path.join(__dirname, '../../data/Posts.xml');
 
 // Funció per llegir i analitzar el fitxer XML
@@ -31,7 +31,7 @@ async function parseXMLFile(filePath) {
     throw error;
   }
 }
-
+// 2 Filtrar entrades per ViewCount
 function processPostsData(data) {
     const posts = Array.isArray(data.posts.row) 
       ? data.posts.row 
@@ -40,6 +40,7 @@ function processPostsData(data) {
     return posts
       .map(post => {
         if (parseInt(post.ViewCount) > 20000) {
+          // 3/4 cada post dins la propietat "question" i Reemplaçar &lt;, &gt;, &#xA;
             return {
                 question: {
                     Id: post.Id,
@@ -65,7 +66,7 @@ function processPostsData(data) {
     .filter(post => post !== null);
 }
 
-// Funció principal per carregar les dades a MongoDB
+//5 Connexió i insertMany()
 async function loadDataToMongoDB() {
   // Configuració de la connexió a MongoDB
   const uri = process.env.MONGODB_URI || 'mongodb://root:password@localhost:27017/';
@@ -78,7 +79,7 @@ async function loadDataToMongoDB() {
         fs.mkdirSync(logDir, { recursive: true });
     }
 
-    // Configuracion logger
+    // 6 Logger winston + fitxer
     const logger = winston.createLogger({
         level: 'info',
         format: winston.format.combine(
@@ -113,6 +114,7 @@ async function loadDataToMongoDB() {
     // Eliminar dades existents (opcional)
     logger.info('Eliminant dades existents...');
 
+    // 7 Buidar col·lecció abans d’inserir
     await collection.deleteMany({});
     
     // Inserir les noves dades
